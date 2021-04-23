@@ -19,3 +19,5 @@ export default function App() {
 // click + button to add
 // write commit msg at top
 // click check at the top most panel to push
+// CLICK THREE DOTS ON TOP PANEL
+// SELECT PUSH
